@@ -1,0 +1,35 @@
+.header {
+  padding: 200px;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  background-color: #ff9933;
+  height: 250px;
+  width: 1270px;
+}
+.intro {
+  height: 300px;
+}
+.pic1 {
+  margin-top: 10px;
+  width: 1270;
+  height: 1000px;
+  text-align: center;
+}
+.pic1 img {
+  background-repeat: no-repeat;
+  width: 800px;
+  height: 1000px;
+  align-self: center;
+}
+.info {
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 1270px;
+  height: 800px;
+  text-align: center;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+}
