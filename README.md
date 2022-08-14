@@ -19,6 +19,9 @@ and CSS to positioning it.
 
 **Server:** No Server Side Implimentation Yet
 
+## Hosted Project Link
+https://tribute-to-chhatrapati-shivaji-maharaj.netlify.app/
+
 
 ## 🚀 About Me
 I'm a Aspiring Full Stack Web Developer.
